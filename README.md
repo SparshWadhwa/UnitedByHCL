@@ -19,4 +19,4 @@ User will be notified about its location based on other users answers so that th
 
 Presentation link: https://www.dropbox.com/s/xvrkqug5hv6iz69/UNITEDBYHCL%20Hackathon.pptx?dl=0
 
-ScreenShot link: https://www.dropbox.com/sh/9i15w6w8jukmgln/AAD5klYYUvd_lFiJG7z8ZQura?dl=0
+ScreenShots link: https://www.dropbox.com/sh/9i15w6w8jukmgln/AAD5klYYUvd_lFiJG7z8ZQura?dl=0
